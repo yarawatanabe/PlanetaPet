@@ -13,13 +13,16 @@ O site apresenta um pet shop fictício chamado Planeta Pet, com informações so
 - Produtos Cães e Gatos
 - Sobre 
 - Navegação por âncora entre páginas
-  
+- Agendamento com CSS e JS
+- Acessibilidade (alt imagem).  
 
 ## Tecnologias
 
 - HTML
 - Git
 - GitHub
+- CSS
+- JS
 
 
 ## Acesso
