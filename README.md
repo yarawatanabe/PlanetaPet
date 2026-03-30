@@ -8,7 +8,7 @@ O site apresenta um pet shop fictício chamado Planeta Pet, com informações so
 
 ## Funcionalidades
 
-- Home da empresa com breve apresentação
+- Home da empresa com breve apresentação - atualização carrossel de imagens com Bootstrap
 - Serviços: Creche, Hotel, Banho e Tosa e Vacinação
 - Produtos Cães e Gatos
 - Sobre 
@@ -21,7 +21,7 @@ O site apresenta um pet shop fictício chamado Planeta Pet, com informações so
 - HTML
 - Git
 - GitHub
-- CSS
+- CSS/Bootstrap
 - JS
 
 
